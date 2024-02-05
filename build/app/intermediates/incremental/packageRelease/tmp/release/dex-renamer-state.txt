@@ -1,0 +1,4 @@
+#Sun Feb 04 17:12:17 ICT 2024
+base.0=/Users/tronghung/Downloads/ltuddd_shop-main 2/shopapp_k2n2/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
